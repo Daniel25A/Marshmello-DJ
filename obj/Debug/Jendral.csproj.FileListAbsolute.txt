@@ -1,0 +1,511 @@
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\TutorialBot.exe.config
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\TutorialBot.exe
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\TutorialBot.pdb
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.IO.Compression.dll
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\obj\Debug\Jendral.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\obj\Debug\Jendral.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\obj\Debug\TutorialBot.exe
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\obj\Debug\TutorialBot.pdb
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\TutorialBot.exe.config
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\TutorialBot.exe
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\TutorialBot.pdb
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.Immutable.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.Compression.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Jendral Bot\Jendral\TutorialBot\obj\Debug\Jendral.csprojResolveAssemblyReference.cache
+E:\Jendral Bot\Jendral\TutorialBot\obj\Debug\Jendral.csproj.CoreCompileInputs.cache
+E:\Jendral Bot\Jendral\TutorialBot\obj\Debug\TutorialBot.exe
+E:\Jendral Bot\Jendral\TutorialBot\obj\Debug\TutorialBot.pdb
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Data.SQLite.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Data.SQLite.pdb
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Data.SQLite.dll.config
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\netstandard.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.AppContext.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.Concurrent.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.NonGeneric.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.Specialized.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ComponentModel.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Data.Common.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Debug.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Process.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Tools.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Drawing.Primitives.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Dynamic.Runtime.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Globalization.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Globalization.Extensions.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.Pipes.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Linq.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Linq.Expressions.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Linq.Parallel.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Linq.Queryable.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.NameResolution.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.NetworkInformation.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Ping.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Primitives.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Requests.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Security.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.WebSockets.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ObjectModel.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Reflection.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Reflection.Extensions.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Reflection.Primitives.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Resources.Reader.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Resources.ResourceManager.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Resources.Writer.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Extensions.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Handles.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.InteropServices.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Numerics.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Claims.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Principal.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.SecureString.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Text.Encoding.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Text.RegularExpressions.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Overlapped.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Tasks.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Thread.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.ThreadPool.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Timer.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ValueTuple.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XDocument.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XmlDocument.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XPath.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.Core.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.Rest.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Lavalink4NET.DiscordNet.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Lavalink4NET.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Newtonsoft.Json.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Buffers.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Interactive.Async.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.Core.xml
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.Rest.xml
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Newtonsoft.Json.xml
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Buffers.xml
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.Immutable.xml
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Interactive.Async.xml
+E:\Jendral Bot\Jendral\TutorialBot\obj\Debug\Jendral.csproj.TutorialBot.exe.config
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Console.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Globalization.Calendars.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.FileSystem.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Http.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Sockets.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\TutorialBot.exe.config
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\TutorialBot.exe
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\TutorialBot.pdb
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\netstandard.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.AppContext.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.Concurrent.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.NonGeneric.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.Specialized.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ComponentModel.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Console.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Data.Common.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Debug.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Process.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Tools.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Drawing.Primitives.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Dynamic.Runtime.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Globalization.Calendars.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Globalization.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Globalization.Extensions.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.Compression.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.FileSystem.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.Pipes.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Linq.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Linq.Expressions.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Linq.Parallel.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Linq.Queryable.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Http.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.NameResolution.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.NetworkInformation.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Ping.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Primitives.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Requests.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Security.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.Sockets.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Net.WebSockets.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ObjectModel.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Reflection.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Reflection.Extensions.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Reflection.Primitives.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Resources.Reader.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Resources.ResourceManager.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Resources.Writer.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Extensions.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Handles.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.InteropServices.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Numerics.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Claims.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.Principal.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Security.SecureString.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Text.Encoding.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Text.RegularExpressions.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Overlapped.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Tasks.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Thread.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.ThreadPool.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Threading.Timer.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.ValueTuple.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XDocument.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XmlDocument.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XPath.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.Core.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.Rest.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Lavalink4NET.DiscordNet.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Lavalink4NET.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Newtonsoft.Json.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Buffers.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.Immutable.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Data.SQLite.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Interactive.Async.dll
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.Core.xml
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.Rest.xml
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\Newtonsoft.Json.xml
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Buffers.xml
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Collections.Immutable.xml
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Data.SQLite.pdb
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Data.SQLite.dll.config
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\bin\Debug\System.Interactive.Async.xml
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\obj\Debug\Jendral.csproj.TutorialBot.exe.config
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\obj\Debug\Jendral.csproj.CoreCompileInputs.cache
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\obj\Debug\TutorialBot.exe
+E:\Bot Loading\Jendral Bot\Jendral\TutorialBot\obj\Debug\TutorialBot.pdb
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\TutorialBot.exe.config
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\TutorialBot.exe
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\TutorialBot.pdb
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\netstandard.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.AppContext.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.Concurrent.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.NonGeneric.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.Specialized.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ComponentModel.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Console.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Data.Common.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Debug.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Process.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Tools.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Drawing.Primitives.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Dynamic.Runtime.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Globalization.Calendars.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Globalization.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Globalization.Extensions.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.Compression.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.FileSystem.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.Pipes.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Linq.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Linq.Expressions.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Linq.Parallel.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Linq.Queryable.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Http.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.NameResolution.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.NetworkInformation.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Ping.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Primitives.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Requests.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Security.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Sockets.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.WebSockets.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ObjectModel.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Reflection.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Reflection.Extensions.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Reflection.Primitives.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Resources.Reader.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Resources.ResourceManager.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Resources.Writer.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Extensions.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Handles.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.InteropServices.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Numerics.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Claims.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Principal.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.SecureString.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Text.Encoding.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Text.RegularExpressions.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Overlapped.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Tasks.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Thread.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.ThreadPool.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Timer.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ValueTuple.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XDocument.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XmlDocument.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XPath.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.Core.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.Rest.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Lavalink4NET.DiscordNet.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Lavalink4NET.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Newtonsoft.Json.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Buffers.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.Immutable.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Data.SQLite.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Interactive.Async.dll
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.Core.xml
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.Rest.xml
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Newtonsoft.Json.xml
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Buffers.xml
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.Immutable.xml
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Data.SQLite.pdb
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Data.SQLite.dll.config
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Interactive.Async.xml
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\Jendral.csprojResolveAssemblyReference.cache
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\Jendral.csproj.TutorialBot.exe.config
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\Jendral.csproj.CoreCompileInputs.cache
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\TutorialBot.exe
+E:\Bot Loading\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\TutorialBot.pdb
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\TutorialBot.exe.config
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\TutorialBot.exe
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\TutorialBot.pdb
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\netstandard.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.AppContext.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.Concurrent.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.NonGeneric.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.Specialized.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ComponentModel.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Console.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Data.Common.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Debug.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Process.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Tools.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Drawing.Primitives.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Dynamic.Runtime.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Globalization.Calendars.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Globalization.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Globalization.Extensions.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.Compression.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.FileSystem.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.Pipes.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Linq.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Linq.Expressions.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Linq.Parallel.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Linq.Queryable.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Http.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.NameResolution.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.NetworkInformation.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Ping.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Primitives.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Requests.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Security.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.Sockets.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Net.WebSockets.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ObjectModel.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Reflection.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Reflection.Extensions.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Reflection.Primitives.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Resources.Reader.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Resources.ResourceManager.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Resources.Writer.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Extensions.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Handles.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.InteropServices.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Numerics.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Claims.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.Principal.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Security.SecureString.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Text.Encoding.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Text.RegularExpressions.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Overlapped.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Tasks.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Thread.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.ThreadPool.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Threading.Timer.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.ValueTuple.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XDocument.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XmlDocument.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XPath.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.Core.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.Rest.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Lavalink4NET.DiscordNet.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Lavalink4NET.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Newtonsoft.Json.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Buffers.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.Immutable.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Data.SQLite.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Interactive.Async.dll
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.Core.xml
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.Rest.xml
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\Newtonsoft.Json.xml
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Buffers.xml
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Collections.Immutable.xml
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Data.SQLite.pdb
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Data.SQLite.dll.config
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\bin\Debug\System.Interactive.Async.xml
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\Jendral.csprojResolveAssemblyReference.cache
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\Jendral.csproj.TutorialBot.exe.config
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\Jendral.csproj.CoreCompileInputs.cache
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\TutorialBot.exe
+E:\Bot de Musica\Jendral Bot\Bot Loading\TutorialBot\obj\Debug\TutorialBot.pdb

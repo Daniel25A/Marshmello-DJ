@@ -1,0 +1,66 @@
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\TutorialBot.exe.config
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\TutorialBot.exe
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\TutorialBot.pdb
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Core.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.AppContext.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Console.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Interactive.Async.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.IO.Compression.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Net.Http.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Net.Sockets.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\obj\Debug\TutorialBot.csprojAssemblyReference.cache
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\obj\Debug\TutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\obj\Debug\TutorialBot.csproj.CopyComplete
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\obj\Debug\TutorialBot.exe
+C:\Users\Tim\source\repos\TutorialBot\TutorialBot\obj\Debug\TutorialBot.pdb
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\TutorialBot.exe.config
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\TutorialBot.exe
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\TutorialBot.pdb
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.IO.Compression.dll
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Core.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\bin\Debug\System.Interactive.Async.xml
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\obj\Debug\TutorialBot.csprojResolveAssemblyReference.cache
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\obj\Debug\TutorialBot.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\obj\Debug\TutorialBot.exe
+C:\Users\Oscar Daniel\Downloads\TutorialBot\TutorialBot\TutorialBot\obj\Debug\TutorialBot.pdb
